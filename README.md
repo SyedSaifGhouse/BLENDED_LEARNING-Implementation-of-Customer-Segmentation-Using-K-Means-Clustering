@@ -42,8 +42,8 @@ Examine and visualize the resulting clusters to interpret patterns and relations
 ```
 /*
 Program to implement customer segmentation using K-Means clustering on the Mall Customers dataset.
-Developed by: MONICA G
-RegisterNumber: 212224040198
+Developed by: SYED SAIF SYED GHOUSE
+RegisterNumber: 212224230286
 
 
 import os
